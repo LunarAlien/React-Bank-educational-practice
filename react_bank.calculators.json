@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "68a698d0b8917bb80c129137"
+  },
+  "key": "mortgage_default",
+  "systemKey": "mortgage",
+  "name": "Ипотека",
+  "annualRate": 9.6,
+  "createdAt": {
+    "$date": "2025-08-21T03:56:00.580Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a698d0b8917bb80c12913a"
+  },
+  "key": "auto_default",
+  "systemKey": "auto",
+  "name": "Автокредит",
+  "annualRate": 3.5,
+  "createdAt": {
+    "$date": "2025-08-21T03:56:00.603Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a698d0b8917bb80c12913d"
+  },
+  "key": "consumer_default",
+  "systemKey": "consumer",
+  "name": "Потребительский кредит",
+  "annualRate": 14.5,
+  "createdAt": {
+    "$date": "2025-08-21T03:56:00.607Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a698d0b8917bb80c129140"
+  },
+  "key": "pension_default",
+  "systemKey": "pension",
+  "name": "Пенсионные накопления",
+  "annualRate": 7,
+  "createdAt": {
+    "$date": "2025-08-21T03:56:00.611Z"
+  },
+  "__v": 0
+}]
